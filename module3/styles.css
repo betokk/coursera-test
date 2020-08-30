@@ -1,0 +1,14 @@
+.navbar-collapse li {
+	background-color: lemonchiffon;
+	text-align: center;
+}
+
+#high-section {
+	height: 1000px;
+	background-color: oldlace;
+	text-align: justify;
+}
+
+#high-section > h2 {
+	text-align: center;
+}
